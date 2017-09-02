@@ -133,6 +133,7 @@ The legality of owning and operating drones and multirotors is important.  Be in
 
 Flying isn't the only way to enjoy drones.  Build one for yourself, and join in the maker movement!
 
+- [Airfield](https://airfield.io) - The basics you should know before you build or buy a drone
 - [Instructables: How to Build a Multirotor](http://www.instructables.com/id/How-to-build-a-Multirotor/)
 - [JeffLikesDrones Thingiverse list](http://www.thingiverse.com/JeffLikesDrones/collections/multi-rotor-plans)
 - [Tested: How to Build a FPV Racing Quadcopter](http://www.tested.com/art/makers/486069-how-build-fpv-racing-quadcopter/)
