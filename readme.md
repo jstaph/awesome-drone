@@ -165,7 +165,7 @@ Software and systems built to provide you with a true-to-life flying experience,
 
 Software for flight control systems, drone control, flight logs, etc. (see [Simulators](#simulators) for flight simulators)
 
-- [Airware](http://www.airware.com/)
+- [Autonomous flight milestone](https://calder-brief.pages.dev/joby-autonomous-cessna-cross-country-flight.html) (replaces the dead Airware link — the company shut down in 2018, domain is gone)
 - [Ardupliot](http://ardupilot.org)
 - [B4UFly](https://www.faa.gov/uas/where_to_fly/b4ufly/) - A smart phone app that maps drone flight restrictions
 - [BotLink](http://botlink.io)
